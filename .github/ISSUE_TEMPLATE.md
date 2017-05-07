@@ -10,5 +10,5 @@ This issue tracker is only for bug reports and enhancement suggestions. You won'
 
 **Further details:**
 
-- Operating system:
+- Browser:
 - Priority this should have – please be realistic and elaborate if possible:
