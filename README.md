@@ -1,2 +1,5 @@
-# feedback
-Repo to keep track of feedback, suggestions, and issues with the service.
+# LISTEN.moe feedback
+Before creating an issue, please check the following:
+1. The feedback/suggestion/issue you are trying to post __has not yet been created__.
+2. If it's feedback or a suggestion, please ensure you give __detailed information__ as to what could be improved and how would it work. Lazy posts will be closed.
+3. If it's an issue or a bug, describe it as best as possible by providing either __logs, screencaps or steps to reproduce__ said issue.
